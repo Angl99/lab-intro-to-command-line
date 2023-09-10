@@ -21,5 +21,5 @@ Paste your solution to Problem 1 between the back ticks below.
   171  mkdir module-one/introductory-javascript/
   172  mkdir module-one/introductory-javascript/variables/
   173  touch module-one/introductory-javascript/variables/var.txt let.txt const.txt
-  174  code variables/ 
+  174  code ~/variables/ 
 ```
